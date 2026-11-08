@@ -6,6 +6,32 @@
 
 Animated koi · contribution history · recent public events · repository languages · productivity insights
 
+
+<!-- Animated GitHub Koi Preview -->
+<div align="center">
+
+  <a href="https://loganthp.github.io/Koi-Dashboard/">
+    <img
+      src="https://raw.githubusercontent.com/LoganthP/Koi-Dashboard/main/koi/koi.gif"
+      width="200"
+      alt="Loganth's Animated GitHub Koi"
+    />
+  </a>
+
+  <p>
+    <sub>🐟 Watch my GitHub activity come to life!</sub>
+  </p>
+
+  <p>
+    <a href="https://loganthp.github.io/Koi-Dashboard/">
+      🌊 Open Interactive Koi Aquarium
+    </a>
+  </p>
+
+</div>
+<!-- End Koi Preview -->
+
+
 [Live demo](https://loganthp.github.io/LoganthP/koi/) · [Setup guide](docs/SETUP.md) · [Upstream fish generator](https://github.com/yalongwastaken/git-koi)
 
 </div>
