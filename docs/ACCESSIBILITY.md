@@ -1,33 +1,11 @@
-# Accessibility Guide
+# Accessibility guide
 
-## GitHub Koi Dashboard
+This guide describes recommended accessibility practices for the Koi dashboard.
 
-This guide explains the accessibility features and
-recommended practices for the interactive Koi Dashboard.
+- Keep controls keyboard-accessible with visible focus.
+- Give the koi meaningful alt text and label status updates.
+- Respect reduced-motion settings and provide animation controls where feasible.
+- Ensure high contrast and descriptive labels on contribution cells.
+- Support narrow displays with scrollable charts rather than shrinking cells.
 
-### Keyboard Accessibility
-- All interactive buttons should be keyboard accessible.
-- Use Tab to navigate between controls.
-- Provide visible focus indicators.
-- Ensure controls have descriptive labels.
-
-### Screen Reader Support
-- Add meaningful alternative text to images.
-- Use semantic HTML elements.
-- Provide accessible names for interactive controls.
-- Announce important loading and error states.
-
-### Motion and Animation
-- Respect `prefers-reduced-motion`.
-- Provide controls to disable decorative animation.
-- Avoid unnecessary motion effects.
-
-### Responsive Design
-- Ensure content works on mobile devices.
-- Support different screen sizes.
-- Avoid horizontal overflow outside scrollable charts.
-
-### Color and Contrast
-- Maintain readable text contrast.
-- Never communicate information through color alone.
-- Include text descriptions for contribution activity.
+These are recommendations and do not claim an audited WCAG compliance level.

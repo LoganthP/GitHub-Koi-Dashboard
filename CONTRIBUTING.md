@@ -1,21 +1,20 @@
+# Contributing
 
-## Documentation Contributions
+Thanks for helping improve GitHub Koi Dashboard.
 
-We welcome contributions that improve the clarity,
-accessibility, and usability of GitHub Koi Dashboard.
+## Documentation contributions
 
-### How to Contribute
+We welcome improvements to clarity, accessibility, setup instructions, and translations.
 
-1. Fork the repository or create a feature branch.
-2. Make a focused improvement.
-3. Ensure Markdown formatting is consistent.
-4. Test links and commands before submitting.
-5. Open a pull request describing your changes.
+1. Open an issue or choose one already available.
+2. Create a branch from `main` or fork this repository.
+3. Make a focused change and verify commands and links.
+4. Submit a pull request describing the purpose and testing.
+5. Attribute genuine collaborators using Git's documented co-author convention.
 
-### Pull Request Checklist
+## Pull request checklist
 
-- [ ] The changes have a clear purpose.
-- [ ] Documentation is accurate and easy to follow.
-- [ ] Existing project functionality is preserved.
-- [ ] Links and examples have been checked.
-- [ ] All contributors receive appropriate credit.
+- [ ] Change has a clear scope.
+- [ ] Documentation links and instructions work.
+- [ ] Existing fish generation and Pages deployment remain functional.
+- [ ] No passwords, private tokens, or email secrets are committed.
