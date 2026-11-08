@@ -6,12 +6,6 @@
 
 Animated pixel-art koi · Contribution history · Public activity insights · Language breakdown
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-222?logo=github)](https://loganthp.github.io/LoganthP/koi/)
-[![No Backend](https://img.shields.io/badge/Backend-None-blue)](#-data-sources--limitations)
-[![No API Keys](https://img.shields.io/badge/API%20Keys-Not%20Required-brightgreen)](#-privacy--security)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg)](CONTRIBUTING.md)
-
 [**🌊 Live Demo**](https://loganthp.github.io/LoganthP/koi/) ·
 [**📖 Setup Guide**](docs/SETUP.md) ·
 [**🐛 Report a Bug**](../../issues) ·
