@@ -1,12 +1,21 @@
-# Contributing
 
-Thanks for helping improve GitHub Koi Dashboard!
+## Documentation Contributions
 
-1. Open an issue describing the bug, feature, or visual change.
-2. Fork the repository and create a branch, for example `feat/accessibility`.
-3. Keep the dashboard static and dependency-light. Never embed secrets or private GitHub data.
-4. Test locally with `python -m http.server 8000` and open `http://localhost:8000/`.
-5. Test cursor dragging, mobile layout, API error states, and contribution history.
-6. Submit a pull request explaining your changes and including a screenshot for UI changes.
+We welcome contributions that improve the clarity,
+accessibility, and usability of GitHub Koi Dashboard.
 
-Avoid removing the upstream Git Koi attribution.
+### How to Contribute
+
+1. Fork the repository or create a feature branch.
+2. Make a focused improvement.
+3. Ensure Markdown formatting is consistent.
+4. Test links and commands before submitting.
+5. Open a pull request describing your changes.
+
+### Pull Request Checklist
+
+- [ ] The changes have a clear purpose.
+- [ ] Documentation is accurate and easy to follow.
+- [ ] Existing project functionality is preserved.
+- [ ] Links and examples have been checked.
+- [ ] All contributors receive appropriate credit.
